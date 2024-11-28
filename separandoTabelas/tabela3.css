@@ -1,0 +1,59 @@
+#sudoku-board input[data-row="0"][data-col="6"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+    border-left-width: 2px;
+    border-top-width: 2px;
+}
+
+#sudoku-board input[data-row="0"][data-col="7"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+    border-top-width: 2px;
+}
+
+#sudoku-board input[data-row="0"][data-col="8"] {
+    background-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+    border-top-width: 2px;
+    border-right-width: 2px;
+}
+
+#sudoku-board input[data-row="1"][data-col="6"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+    border-left-width: 2px;
+}
+
+#sudoku-board input[data-row="1"][data-col="7"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+}
+
+#sudoku-board input[data-row="1"][data-col="8"] {
+    background-color: hsl(0, 0%, 84%);
+    border-bottom-color: hsl(0, 0%, 84%);
+    border-right-width: 2px;
+}
+
+#sudoku-board input[data-row="2"][data-col="6"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+}
+
+#sudoku-board input[data-row="2"][data-col="7"] {
+    background-color: hsl(0, 0%, 84%);
+    border-right-color: hsl(0, 0%, 84%);
+    border-bottom-width: 2px;
+}
+
+#sudoku-board input[data-row="2"][data-col="8"] {
+    background-color: hsl(0, 0%, 84%);
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+}
